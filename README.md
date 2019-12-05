@@ -11,7 +11,7 @@ Connect Four (Four Up, Plot Four, Find Four, Four in a Row, Four in a Line ,is a
 
  # "User Stories"
 - The user should be able to click on a square to add marker first and then the other marker, and so on.
-- The user should be shown a message after each turn for if I win, lose, tie or who's turn it is next.
+- The user should be shown a message after each turn, who's turn it is next.
 - The user should be shown a message when I win, lose or tie.
 -  The user should not be able to continue playing once I win, lose, or tie
 - The user should be able to play the game again without refreshing the page (after finishing the game they can restart the game)
