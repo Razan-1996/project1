@@ -40,7 +40,7 @@ Connect Four (Four Up, Plot Four, Find Four, Four in a Row, Four in a Line ,is a
   
 # features :
 - Switch turns: between Player1 and Player2(or whichever markers you select)
-- Visually display which side won: if a player gets four in a row, or show a draw if neither player wins 
+- 7 colums ,6 rows
 - design by many colors together 
 - song
 - anemation
